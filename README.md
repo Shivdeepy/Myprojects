@@ -1,2 +1,1 @@
-# Myprojects
-All Projects
+print("The King")
